@@ -1,7 +1,3 @@
----
-isShowComments: false
----
-
 # 我的朋友们
 
 ## 一言
