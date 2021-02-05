@@ -1,7 +1,7 @@
 ---
 home: true
-bgImage: 'https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/background.jpg'
+bgImage: 'https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/from-recoluan.svg'
 bgImageStyle: {
-  height: '350px'
+  height: '700px'
 }
 ---
