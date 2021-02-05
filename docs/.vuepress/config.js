@@ -23,9 +23,10 @@ module.exports = {
         },
       },
       nav: [  //导航栏设置
-        { text: '主页', link: '/', icon: 'reco-home' },
+        { text: '首页', link: '/', icon: 'reco-home' },
         { text: '关于', link: '/about/', icon: 'reco-account' },
-        { text: '友链', link: '/friends/', icon: 'reco-api' }
+        { text: '友链', link: '/friends/', icon: 'reco-api' },
+        { text: '返回主页', link: 'https://www.restent.xyz', icon: 'reco-home' }
       ],
       sidebar: 'auto',  //在所有页面中启用自动生成侧栏
       startYear: '2019', // 项目开始时间，只填写年份
