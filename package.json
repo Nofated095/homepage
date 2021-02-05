@@ -1,0 +1,23 @@
+{
+  "name": "restent-blog",
+  "version": "1.0.0",
+  "description": "Restent's VuePress Blog",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "Restent",
+    "Ou",
+    "Restent"
+  ],
+  "author": "Restent Ou",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.8.0"
+  },
+  "dependencies": {
+    "vuepress-theme-reco": "^1.6.1"
+  }
+}
