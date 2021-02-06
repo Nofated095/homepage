@@ -41,7 +41,9 @@ module.exports = {
         repo: 'Restent-Blog-Service',
         clientId: '785215f270ba4a243a5f',
         clientSecret: 'ae703ea838a920de16e037ffcb2be9c8354ef955',
-      }
+      },
+       // 导航栏 Logo
+       logo: 'https://cdn.jsdelivr.net/gh/Restent/Restent/Favicon.ico'
     },
   
     markdown: {
@@ -49,5 +51,5 @@ module.exports = {
     },
     // 搜索设置
     search: true,
-    searchMaxSuggestions: 10,
+    searchMaxSuggestions: 10
   }

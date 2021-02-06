@@ -13,7 +13,7 @@
     "Restent"
   ],
   "author": "Restent Ou",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.8.0"
   },
