@@ -5,7 +5,7 @@ module.exports = {
     title: "Restent Blog",  // 显示在左上角的网页名称以及首页在浏览器标签显示的title名称
     description: 'I need to learn to let myself go.',  // meta 中的描述文字，用于SEO
     head: [
-      ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/Restent/Restent/Favicon.ico' }],  //浏览器的标签栏的网页图标,基地址/docs/.vuepress/public
+      ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/Restent/Restent@master/Favicon.ico' }],  //浏览器的标签栏的网页图标,基地址/docs/.vuepress/public
       ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }], //在移动端，搜索框在获得焦点时会放大
     ],
   
@@ -32,7 +32,7 @@ module.exports = {
       startYear: '2019', // 项目开始时间，只填写年份
       lastUpdated: '最后更新时间', // string | boolean
       author: 'Restent Ou',
-      authorAvatar: 'https://cdn.jsdelivr.net/gh/Restent/Restent/avatar.jpg',  //作者头像
+      authorAvatar: 'https://cdn.jsdelivr.net/gh/Restent/Restent@master/avatar.jpg',  //作者头像
       mode: 'light',  //默认显示白天模式
       // 评论设置
       vssueConfig: {
@@ -43,7 +43,7 @@ module.exports = {
         clientSecret: 'ae703ea838a920de16e037ffcb2be9c8354ef955',
       },
        // 导航栏 Logo
-       logo: 'https://cdn.jsdelivr.net/gh/Restent/Restent/Favicon.ico'
+       logo: 'https://cdn.jsdelivr.net/gh/Restent/Restent@master/avatar.jpg'
     },
   
     markdown: {
