@@ -38,7 +38,7 @@ module.exports = {
       vssueConfig: {
         platform: 'github',
         owner: 'Restent',
-        repo: 'Restent-Service',
+        repo: 'Restent-Blog-Service',
         clientId: '785215f270ba4a243a5f',
         clientSecret: 'ae703ea838a920de16e037ffcb2be9c8354ef955',
       },
