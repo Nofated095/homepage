@@ -39,8 +39,8 @@ module.exports = {
         platform: 'github',
         owner: 'Restent',
         repo: 'Restent-Blog-Service',
-        clientId: '785215f270ba4a243a5f',
-        clientSecret: 'ae703ea838a920de16e037ffcb2be9c8354ef955',
+        clientId: '423e6b1fc9374942510c',
+        clientSecret: '92485747b11dd28ddd61cfd4eb31ff9ec04efa59',
       },
        // 导航栏 Logo
        logo: 'https://cdn.jsdelivr.net/gh/Restent/Restent@master/avatar.jpg'
