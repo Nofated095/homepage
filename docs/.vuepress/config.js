@@ -35,12 +35,9 @@ module.exports = {
       authorAvatar: 'https://cdn.jsdelivr.net/gh/Restent/Restent@master/avatar.jpg',  //作者头像
       mode: 'light',  //默认显示白天模式
       // 评论设置
-      vssueConfig: {
-        platform: 'github',
-        owner: 'Restent',
-        repo: 'Restent-Blog-Service',
-        clientId: '423e6b1fc9374942510c',
-        clientSecret: '92485747b11dd28ddd61cfd4eb31ff9ec04efa59',
+      valineConfig: {
+        appId: 'GFzqUiRal3601kVzHJs3SqAW-MdYXbMMI',// your appId
+        appKey: 'qkHdb3qOlc9ommoEaU0HuxK9', // your appKey
       },
        // 导航栏 Logo
        logo: 'https://cdn.jsdelivr.net/gh/Restent/Restent@master/avatar.jpg'
