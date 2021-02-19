@@ -42,9 +42,9 @@
   - Coding Pages 提供的 `*.coding-pages.com`；
   - 腾讯云 COS 的默认域名。
 - 站点访问要靠谱，例如：
-  - 域名含有像 Let's Encrypt, CloudFlareSSL 或 TrustAsia 等证书；
+  - 已开启 HTTPS；
   - 访问时间最多只能在 10s；
-  - 国内托管/服务器已备案。
+  - 国内托管商/服务器已备案。
 - 不能满眼转载 + 广告，非常高级的特效还是算了。
 - 添加有本站信息。
 
