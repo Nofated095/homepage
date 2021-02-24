@@ -53,7 +53,7 @@
 
 链接：https://blog.restent.win
 
-签名：I need to learn to let myself go.
+签名：时光遗忘的背面，独坐残破的台阶。
 
 头像：https://cdn.jsdelivr.net/gh/Restent/Restent/avatar.jpg
 
