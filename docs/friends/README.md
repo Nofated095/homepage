@@ -32,7 +32,7 @@
 
 [欠陥電気](https://blog.atri.tk) Misaka13514的小站
 
-[StarTrails’ blog](https://startrails.top)
+[StarTrails’ blog](https://startrails.top) 差之毫厘，谬以千里
 
 ## 交换友链
 
