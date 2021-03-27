@@ -32,6 +32,8 @@
 
 [欠陥電気](https://blog.atri.tk) Misaka13514的小站
 
+[StarTrails’ blog](https://startrails.top)
+
 ## 交换友链
 
 ### 要求
