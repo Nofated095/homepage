@@ -24,7 +24,7 @@
 
 [Cheny](https://cheny.cc) 明天的事，交给明天的我
 
-[Paji's Blog](https://blog.honoka.club) 很强大的人
+[Paji's Blog](https://blog.mntpaji.com/) 很强大的人
 
 [Pig Fang](https://blog.gplane.win) 轨道交通爱好者
 
