@@ -2,8 +2,7 @@
 title: 抄袭并修改别人的 Vue.js 主页项目
 date: 2021-02-04 16:51:00
 tags:
-- Vue.je
-- 主页
+- Vue
 categories: 操作
 ---
 
@@ -22,6 +21,12 @@ categories: 操作
 我 git clone 下来之后，立刻 push 到了我的另外一个仓库，然后让 Vercel 进行自动部署。但 2min 之后，Vercel 突然给我报错，不仅 Chrome 测试没法过，并且 Node.js（在 Vercel 上关不掉）部署失败，过了 9min 仍处在部署阶段。
 
 我就发了报错内容给 Ray 看，他发觉我用的是 Node.js 部署，便说「这个是不用 Node.js 部署的」。然后就如上面所说，Node.js  关不掉......
+
+::: tip 2021-1-10
+
+实际上就是没法过 Chrome 测试，所以就一直过不去。**Vercel 自动部署环境怎么可能有 Chrome 嘛。**
+
+:::
 
 那我就只能在本地用 yarn 部署了。部署完成之后，我把 dist 的内容扔到了 Github，再让 Vercel 运行一次，成功。
 

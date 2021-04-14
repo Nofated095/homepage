@@ -3,7 +3,7 @@ module.exports = {
     // host: '0.0.0.0',  // 生成网页地址（本地调试使用）
     // port: '6666',  // 生成网页端口（本地调试使用）
     title: "Restent Blog",  // 显示在左上角的网页名称以及首页在浏览器标签显示的title名称
-    description: '一步步走过的路，永远值得你怀念。',  // meta 中的描述文字，用于SEO
+    description: '做自己喜欢的样子，挺好。',  // meta 中的描述文字，用于SEO
     head: [
       ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/Restent/Restent@master/Favicon.ico' }],  //浏览器的标签栏的网页图标,基地址/docs/.vuepress/public
       ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }], //在移动端，搜索框在获得焦点时会放大
@@ -23,9 +23,9 @@ module.exports = {
         },
       },
       nav: [  //导航栏设置
-        { text: '主页', link: 'https://www.restent.win', icon: 'reco-home' },
-        { text: '关于', link: '/about/', icon: 'reco-account' },
-        { text: '友链', link: '/friends/', icon: 'reco-api' }
+        { text: '主页', link: 'https://www.restent.win', icon: 'fa-home' },
+        { text: '关于', link: '/about/', icon: 'fa-user' },
+        { text: '友链', link: '/friends/', icon: 'fa-link' }
       ],
       sidebar: 'auto',  //在所有页面中启用自动生成侧栏
       startYear: '2019', // 项目开始时间，只填写年份
@@ -33,7 +33,7 @@ module.exports = {
       author: 'Restent Ou',
       authorAvatar: 'https://cdn.jsdelivr.net/gh/Restent/Restent@master/avatar.jpg',  //作者头像
       mode: 'light',  //默认显示白天模式
-      // 评论设置
+      // 评论 + 访问统计
       valineConfig: {
         appId: 'GFzqUiRal3601kVzHJs3SqAW-MdYXbMMI',// your appId
         appKey: 'qkHdb3qOlc9ommoEaU0HuxK9', // your appKey
@@ -117,9 +117,8 @@ module.exports = {
           link: 'https://startrails.top'
         },
       ]
-    },
-       // 导航栏 Logo
-       logo: '' // 已注释，没必要
+    }
+
     }
   
     markdown: {
