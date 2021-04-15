@@ -10,6 +10,7 @@ module.exports = {
     ],
   
     theme: 'reco',  //选择主题‘reco’
+    plugins: [ '@vuepress-reco/bgm-player' ],
     themeConfig: {
       type: 'blog', //选择类型博客
       blogConfig: {

@@ -7,6 +7,7 @@ categories:
 tags:
 - Vue
 ---
+
 最近用 VuePress 重新搞了 Restent Blog。
 
 ## 为什么不再是 Hexo？

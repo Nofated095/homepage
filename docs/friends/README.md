@@ -1,6 +1,6 @@
-# 我的朋友们
+# 友情链接
 
-这里啥都没有了，因为转移到了一个新的地方~
+请回到主页并下滑到页脚，你就会看见本站全新的 Friend Link！
 
 ## 交换友链
 
@@ -23,7 +23,7 @@
 
 链接：https://blog.restent.win
 
-签名：时光遗忘的背面，独坐残破的台阶。
+签名：做自己喜欢的样子，挺好。
 
 头像：https://cdn.jsdelivr.net/gh/Restent/Restent/avatar.jpg
 
@@ -34,6 +34,7 @@ Favicon: https://cdn.jsdelivr.net/gh/Restent/Restent/Favicon.ico
   - 站点标题
   - 站点链接
   - 你喜欢的签名/格言/说明
+  - 头像链接，否则你的头像将会显示 Gravatar 图标
 
 ## 交换方式
 
