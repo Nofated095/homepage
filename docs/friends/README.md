@@ -23,11 +23,11 @@
 
 链接：https://blog.restent.win
 
-签名：做自己喜欢的样子，挺好。
+签名：只要有你们，就够了。
 
-头像：https://cdn.jsdelivr.net/gh/Restent/Restent/avatar.jpg
+头像：<https://cdn.jsdelivr.net/gh/Restent/Restent/avatar.jpg>
 
-Favicon: https://cdn.jsdelivr.net/gh/Restent/Restent/Favicon.ico
+Favicon: <https://cdn.jsdelivr.net/gh/Restent/Restent/Favicon.ico>
 :::
 
 - 准备好以下信息
