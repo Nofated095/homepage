@@ -3,19 +3,18 @@ title: 试用 Evolution X OS（Android Q）
 date: '2020-10-06 17:15:24'
 sidebar: 'auto'
 categories:
-- 评点
+- 杂文
 tags:
-- AOSP
-- 类原生
+- 刷机
 ---
 
-## 测试系统大绝
+## 起因
 
-我本来以为 Whyred 能吃到 Android 11，结果就停止更新了。
+我本来以为 Whyred 能吃到 Pixel Experience 的 Android 11，结果就停止更新了。
 
 没错，**这一代维护者跑路了。**
 
-在此之后，我试了一下 LineageOS。但是 LineageOS 真的太干净了，并且还 **没有三指下拉**，非常难受。
+在此之后，我试了一下 LineageOS。但是 LineageOS 真的太干净了，并且还 **没有三指下拉截屏**，非常难受。
 
 我就去和一位朋友抱怨，他给我推荐了 Evolution X OS。
 
@@ -56,6 +55,12 @@ Evolution X 的开机动画还是蛮好看的，设置界面就是普普通通�
 相机的所有功能均可正常使用，水印则是 **REDMI NOTE 5 PRO**。
 
 > Redmi Note 5 Pro 是印度特供的机型。
+
+::: tip
+
+后面我查了一下，这个其实就是 MI A2 Camera For Whyred。啧啧啧，Whyred 的待遇挺好的啊。
+
+:::
 
 ## 总结
 

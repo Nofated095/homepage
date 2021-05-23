@@ -6,8 +6,6 @@ categories:
 - 技术
 tags:
 - 刷机
-- phoenix
-- Redmi K30
 ---
 ::: tip
 
@@ -47,6 +45,12 @@ TWRP 一开 ADB Sideload，先在电脑端打 `adb devices` 看看能不能检�
 
 刷的时候是晚上，节点莫名其妙直接掉速，所以拿了电脑上的 Magisk v22 和 Magisk App 扔进了手机里，第二天再更新 Magisk v23，然后把 Magisk Hide 一开就完事了。
 
+::: tip Magisk APP 有何作用？
+
+从 Magisk v22 开始，Magisk 需要更新它的管理器才能正式使用。如果直接点开并且下载，我估计等死都没下载完，干脆备一个 Magisk APP 更方便。
+
+:::
+
 ## 刷 ANX Camera
 
 ::: tip 注释
@@ -67,4 +71,4 @@ EdXposed 能提供更多的功能，比如保护你手机隐私的 XPrivacyLua�
 
 ***
 
-做完这一切，就可以恢复 Global APP 和国内某些流氓软件了~~（雾）~~。
+做完这一切，就可以恢复 Global APP 和国内某些流氓软件了 ~~（雾）~~ 。

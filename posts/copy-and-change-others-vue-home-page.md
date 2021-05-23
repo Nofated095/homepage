@@ -3,7 +3,7 @@ title: 抄袭并修改别人的 Vue.js 主页项目
 date: 2021-02-04 16:51:00
 tags:
 - Vue
-categories: 操作
+categories: 技术
 ---
 
 > 这是我第一篇使用手机编写并发布的文章！

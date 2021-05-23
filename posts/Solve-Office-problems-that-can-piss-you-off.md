@@ -3,10 +3,9 @@ title: 重装班级电脑的 Office
 date: '2020-09-05 22:42:36'
 sidebar: 'auto'
 categories:
-- 操作
+- 技术
 tags:
 - Office
-- 希沃
 ---
 ## 简直气死我
 我们的教室搬过去了另外一栋教学楼，大小还算可以。但是，整栋楼的电脑还用着上世纪的 Microsoft Office Professional Plus 2007？

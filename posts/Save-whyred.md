@@ -3,9 +3,8 @@ title: 急救 Whyred
 date: '2021-05-05 15:00:00'
 sidebar: 'auto'
 categories:
-- 日常
+- 技术
 tags:
-- Whyred
 - 手机
 ---
 
