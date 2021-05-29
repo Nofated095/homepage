@@ -20,11 +20,11 @@ tags:
 然后他就打开手机给我看，哇草，他买了个 99.9 元的 Redmi 手环，还多买了一套腕带......？
 这个时候我就开始注意原来的那个小米手环 3 NFC 版，发现原来的那个腕带断了一截？还好没什么大问题，我还能带的上。
 诶！我想起来我说我要买表，这下子不用买了！（我问我爸说能给我吗，他说给我了！）
-<img src="https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/Posts/02/02.jpg">
+<img src="https://cdn.jsdelivr.net/gh/Restent/Website-Images/Posts/02/02.jpg">
 
 ## 第二天
 其实，我爸在买这玩意回来的时候，就搞了一张公交卡。
-<img src="https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/Posts/02/03.jpg">
+<img src="https://cdn.jsdelivr.net/gh/Restent/Website-Images/Posts/02/03.jpg">
 结果到现在他都没用过。
 我上课回来之后，直接往刷卡机上一摁：
 
@@ -35,7 +35,7 @@ tags:
 可惜我发现我妈又给我实体卡充了 50 元。（惨）
 ## 后续
 因为那个腕带固定不稳，搞得我非常不舒服，干脆去狗东买了条新腕带，看来得 26 号才能到货了......
-<img src="https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/Posts/02/04.png">
+<img src="https://cdn.jsdelivr.net/gh/Restent/Website-Images/Posts/02/04.png">
 我刚进入狗东的时候，它就给了我一个 8 元的红包，后面我看上的一款腕带只要 7 元，就用这个红包抵扣到只用支付 0.01 元......
 **给力**
 星期二我爸妈给我请假拉我回来，就换上了那个蓝色腕带，还是蛮好看的。

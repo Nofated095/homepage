@@ -24,7 +24,7 @@ Evolution X 的开机动画还是蛮好看的，设置界面就是普普通通�
 
 好的，直接动手恢复软件和桌面布局！
 
-<img src="https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/Posts/01/02.png">
+<img src="https://cdn.jsdelivr.net/gh/Restent/Website-Images/Posts/01/02.png">
 
 ## 评点
 
@@ -32,25 +32,25 @@ Evolution X 的开机动画还是蛮好看的，设置界面就是普普通通�
 
 首先，来看一下它家的锁屏
 
-<img src="https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/Posts/01/03.png">
+<img src="https://cdn.jsdelivr.net/gh/Restent/Website-Images/Posts/01/03.png">
 
 一眼望过去就是很正常的 Pixel UI，但是 Evolution X 在下方添加了两个快捷入口：左边是语音助理，右边是相机。
 
 作为高端系统，Evolution X 和 Havoc 一样有着它自己的自定义功能，如下：
 
-<img src="https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/Posts/01/04.png">
+<img src="https://cdn.jsdelivr.net/gh/Restent/Website-Images/Posts/01/04.png">
 
 还可以改电源菜单，这样进第三方 REC 就不用按音量 + 键了。
 
 对于小米的机型，它还有一个 Xiaomi Parts (虽然英文有点不明白)：
 
-<img src="https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/Posts/01/06.png">
+<img src="https://cdn.jsdelivr.net/gh/Restent/Website-Images/Posts/01/06.png">
 
-<img src="https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/Posts/01/07.png">
+<img src="https://cdn.jsdelivr.net/gh/Restent/Website-Images/Posts/01/07.png">
 
 只有一个 Xiaomi Parts 肯定不够，它还给你带了一个 MIUI 11 的相机(非 ANX Camera)：
 
-<img src="https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/Posts/01/08.png">
+<img src="https://cdn.jsdelivr.net/gh/Restent/Website-Images/Posts/01/08.png">
 
 相机的所有功能均可正常使用，水印则是 **REDMI NOTE 5 PRO**。
 
@@ -68,9 +68,9 @@ Evolution X 的开机动画还是蛮好看的，设置界面就是普普通通�
 
 这一个系统支持以下的机型(小米)：
 
-<img src="https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/Posts/01/09.jpg">
+<img src="https://cdn.jsdelivr.net/gh/Restent/Website-Images/Posts/01/09.jpg">
 
-<img src="https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/Posts/01/10.jpg">
+<img src="https://cdn.jsdelivr.net/gh/Restent/Website-Images/Posts/01/10.jpg">
 
 这一款原生系统吊打国产系统，岂不美哉？
 
@@ -78,4 +78,4 @@ Evolution X 的开机动画还是蛮好看的，设置界面就是普普通通�
 
 最后奉上一张图片：
 
-<img src="https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/Posts/01/11.jpg">
+<img src="https://cdn.jsdelivr.net/gh/Restent/Website-Images/Posts/01/11.jpg">

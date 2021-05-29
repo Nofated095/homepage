@@ -27,9 +27,9 @@ tags:
 
 ~~由于我的存折需要我满 18 岁才可以取款，所以这里才写到我爸来出钱，等到过年了我就把 ￥219 还给他。~~
 
-![小米手环 5 NFC版](https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/Posts/03/01.jpg)
+![小米手环 5 NFC版](https://cdn.jsdelivr.net/gh/Restent/Website-Images/Posts/03/01.jpg)
 
-![更新换代](https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/Posts/03/02.jpg)
+![更新换代](https://cdn.jsdelivr.net/gh/Restent/Website-Images/Posts/03/02.jpg)
 
 ## 我的感觉
 

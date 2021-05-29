@@ -13,7 +13,7 @@ tags:
 
 我家目前在用的是 TP-LINK 的 TL-WDR5620:
 
-![WDR5620](https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/Posts/04/01.jpg)
+![WDR5620](https://cdn.jsdelivr.net/gh/Restent/Website-Images/Posts/04/01.jpg)
 
 虽然这货是 1200M 并且有四根天线，但是它穿墙的功能我找都找不到，而且尽管路由器放在我爸妈房间、我房间在我爸妈房间的前提下，WiFi 仍旧很差经。~~因为隔开的墙实在太他妈的厚了~~
 
@@ -23,7 +23,7 @@ tags:
 
 有请：TP-LINK TL-WR845N!
 
-![WR845N](https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/Posts/04/02.jpg)
+![WR845N](https://cdn.jsdelivr.net/gh/Restent/Website-Images/Posts/04/02.jpg)
 
 这玩意是在拼多多还算神经正常那一段时间花 20+ CNY 买的二手路由器（自家那个 300M 的出问题了），结果过了不久我爸又买了一个路由器，也就是 WDR5620。
 
@@ -69,7 +69,7 @@ tags:
 
 ## 测速
 
-![Speedtest.net](https://cdn.jsdelivr.net/gh/Restent/Restent-Blog-Service/Posts/04/03.png)
+![Speedtest.net](https://cdn.jsdelivr.net/gh/Restent/Website-Images/Posts/04/03.png)
 
 我家的宽带是 100M，而这个桥接能跑够 30Mbps 也算很好了（因为是 2.4G 频段嘛）。
 
