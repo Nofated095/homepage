@@ -1,42 +1,47 @@
-# 友情链接
+# 友情链接申请
 
-请回到主页并下滑到页脚，你就会看见本站全新的 Friend Link！
+## 要求
 
-## 交换友链
+- 站点长满草我不管，内容要有意义，不能有疑似不良、违规内容；
 
-### 要求
+- 站点访问速度可以，并开启有 HTTPS；
 
-因为理论上来说交换都得有要求，所以我就按自己的看法写了一些。
+- 使用标有 站名 / 站长 ID 的免费域名，或者付费域名；
 
-- 不要使用无法辨认身份的免费域名，例如：
-  - Coding Pages 提供的 `*.coding-pages.com`；
-  - 腾讯云 COS 的默认域名。
-- 站点访问要靠谱，例如：
-  - 已开启 HTTPS；
-  - 访问时间最多只能在 10s；
-  - 国内托管商/服务器已备案。
-- 不能满眼转载 + 广告，非常高级的特效还是算了。
+- 禁止满眼转载，或者广告满天飞；
+
 - 添加有本站信息。
 
 ::: tip 本站信息
+
 标题：Restent Blog
+
+站长：Restent Ou
+
+副标题：每一个人都值得被尊重和善待。
 
 链接：https://blog.restent.win
 
-签名：只要有你们，就够了。
+头像：[在此复制](https://cdn.jsdelivr.net/gh/Restent/Restent/avatar.jpg)
 
-头像：<https://cdn.jsdelivr.net/gh/Restent/Restent/avatar.jpg>
+Favicon：[在此复制](https://cdn.jsdelivr.net/gh/Restent/Restent/Favicon.ico)
 
-Favicon: <https://cdn.jsdelivr.net/gh/Restent/Restent/Favicon.ico>
 :::
 
-- 准备好以下信息
-  - 站点标题
-  - 站点链接
-  - 你喜欢的签名/格言/说明
-  - 头像链接，否则你的头像将会显示 Gravatar 图标
+## 申请
 
-## 交换方式
+你需要准备如下信息：
 
-直接在下方评论或[发送邮件](mailto:i@restent.win)进行申请。
+- 站长名称；
 
+- 站点链接；
+
+- 头像地址（推荐使用 jsDelivr CDN 或 Gravatar 加载）；
+
+- 副标题（也算是个性签名）。
+
+准备如上信息后，可直接在下方评论区提交，或者发送邮件至[我的个人邮箱](mailto:i@restent.win)进行申请。
+
+***
+
+大概在周末、节假日，如果站点符合要求，你的站点会添加至首页下方的 Friend Link。
