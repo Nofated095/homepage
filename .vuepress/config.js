@@ -119,6 +119,12 @@ module.exports = {
         link: 'https://startrails.top',
         logo: "https://cdn.jsdelivr.net/gh/Star-Trails/Star-Trails.github.io@master/images/0000.png"
       },
+      {
+        title: '徐艺扬',
+        desc: '分享有趣、有用的东西。',
+        link: 'https://xuyiyang.com.cn/',
+        logo: "https://i.loli.net/2020/08/27/STxnvNphVbtkgdI.jpg"
+      }
     ]
   },
 
