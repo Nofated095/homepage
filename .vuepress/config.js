@@ -124,6 +124,18 @@ module.exports = {
         desc: '分享有趣、有用的东西。',
         link: 'https://xuyiyang.com.cn/',
         logo: "https://i.loli.net/2020/08/27/STxnvNphVbtkgdI.jpg"
+      },
+      {
+        title: 'SukkaW',
+        desc: '童话只美在真实却从不续写',
+        link: 'https://blog.skk.moe',
+        logo: 'https://cdn.jsdelivr.net/npm/skx@0.2.3/avatar/144x144.png'
+      },
+      {
+        title: 'Light_Clever',
+        desc: '以前认识的不小心被我脑残评论的好友 | 一个沙雕网友的博客，咕~',
+        link: 'https://blog.14mt.cn',
+        logo: "https://thirdqq.qlogo.cn/g?b=qq&nk=446889410&s=100"
       }
     ]
   },
