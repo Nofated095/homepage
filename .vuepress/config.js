@@ -133,7 +133,7 @@ module.exports = {
       },
       {
         title: 'Light_Clever',
-        desc: '以前认识的不小心被我脑残评论的好友 | 一个沙雕网友的博客，咕~',
+        desc: '愿天下之美景，吾与尔之共享',
         link: 'https://blog.14mt.cn',
         logo: "https://thirdqq.qlogo.cn/g?b=qq&nk=446889410&s=100"
       }
