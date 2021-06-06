@@ -80,7 +80,7 @@ module.exports = {
       {
         title: 'Enjoy',
         desc: '过分的神圣，往往比恶魔更加恶质。',
-        logo: "https://mcenjoy.cn/wp-content/uploads/2019/06/u13286371072291463876fm26gp0.jpg",
+        logo: "https://mcenjoy.cn/avatar",
         link: 'https://mcenjoy.cn'
       },
       {

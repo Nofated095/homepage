@@ -16,7 +16,7 @@ tags:
 
 但是，Hexo 在 Categories 和 Tags 这两个页面的应用还是非常的不行。如果主题不支持，那么这两个页面只会显示它们默认的标题，就比如我配套使用的 Meadow 主题：它支持 Categories 的显示，但是它不支持 Tags 的显示。
 
-并且，Hexo 的 HTML 并不是预渲染的。我用 Vercel 的解析和 CDN 还好，如果是之前的 CloudFlare + Github Pages 的话，简直能慢死。详细一点的话：Meadow 主题的部分图形画面就是因为 Hexo 加载太慢，然后卡出了奇奇怪怪的 CSS。
+并且，Hexo 的 HTML 并不是预渲染的。如果是之前的 CloudFlare + Github Pages 的话，简直能慢死。详细一点的话：Meadow 主题的部分图形画面就是因为 Hexo 加载太慢，然后卡出了奇奇怪怪的 CSS。
 
 ## 为什么是 VuePress？
 
@@ -34,14 +34,38 @@ VuePress 由两部分组成：第一部分是一个极简静态网站生成器�
 
 首先，VuePress 是有博客主题的，VuePress 团队在他们的官方文档有提到，就比如现在配套使用的 vuepress-theme-reco 就是一款优秀的 VuePress 主题；其次，预渲染好的 HTML 带来的速度与 CDN 配套，会给访客带来很不错的体验。
 
-## 自动部署
+## 配置
 
-虽然 Vercel 没有对 VuePress 进行无繁琐配置的自动部署操作，但其实这没必要，因为用户上传的 VuePress 目录结构是不一样的。
+- 主题：vuepress-theme-reco
 
-目前我是填写了 "yarn docs:build"（部署指令）以及 "docs/.vuepress/dist"（输出指令）进行 VuePress 部署，成效还是很不错的。
+- 评论：Valine
 
-## 部署速度
+- 统计：LeanCloud + CloudFlare Analytics
 
-VuePress 的第一次部署就会稍稍的慢一些。
+- CDN：CloudFlare Proxy + jsDelivr CDN
 
-但是第二次部署，yarn 部署时会寻找上一次部署的缓存，并且进行增量更新，以实现更快速的部署。最快我也算了一下，大概 20s。
+- 托管：CloudFlare Pages
+
+博客结构如下：
+
+```
+- Restent Blog
+  - .vuepress
+    - config.js // VuePress 配置文件
+  - about
+    - README.md // 除 posts 之外其它文件夹与 about 结构一致
+  - donate
+  - friends
+  - posts
+    - All posts // 存储博客文章
+  - README.md
+```
+
+使用此结构，本地 dev 和 build 的 script 如下：
+
+```
+"scripts": {
+  "dev": "vuepress dev",
+  "build": "vuepress build"
+}
+```
