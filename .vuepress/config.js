@@ -148,12 +148,3 @@ module.exports = {
   // 搜索设置
   search: true
   searchMaxSuggestions: 10
-  plugins: [
-    [
-      '@vuepress-reco/vuepress-plugin-rss', //RSS插件
-      {
-        site_url: "https://blog.restent.win", //网站地址
-        copyright: "Restent Ou", //版权署名
-      }
-    ]
-  ]
