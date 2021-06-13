@@ -18,7 +18,7 @@
 
 站长：Restent Ou
 
-副标题：别怕，没有什么值得恐惧。
+副标题：每一个人都值得被尊重和善待。
 
 链接：https://blog.restent.win
 
