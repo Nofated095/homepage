@@ -2,7 +2,7 @@
   "name": "rems_docs",
   "version": "1.0.0",
   "description": "REMS's Vuepress Web",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build"
