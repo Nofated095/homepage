@@ -29,7 +29,7 @@ export default defineUserConfig<DefaultThemeOptions>({
 
     repo: 'Nofated095/docs',
 
-    docsDir: '/',
+    docsDir: './',
 
     // theme-level locales config
     locales: {
