@@ -1,20 +1,19 @@
 {
-  "name": "rems_docs",
+  "name": "nofated_homepage",
   "version": "1.0.0",
-  "description": "REMS's Vuepress Web",
+  "description": "Nofated's Homepage",
   "main": "index.ts",
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build"
   },
   "keywords": [
-    "rems",
-    "remsmc",
-    "Redstone Experiment Server",
-    "Minecraft",
-    "生电服务器"
+    "Nofated",
+    "nof",
+    "Nofated095",
+    "nof095"
   ],
-  "author": "Redstone Experimental Server Github",
+  "author": "Nofated095",
   "license": "CC BY-NC-SA 4.0",
   "devDependencies": {
     "vuepress": "^2.0.0-beta.32"
