@@ -1,25 +1,26 @@
 {
-  "name": "restent-blog",
+  "name": "rems_docs",
   "version": "1.0.0",
-  "description": "Restent's VuePress Blog",
+  "description": "REMS's Vuepress Web",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build"
   },
   "keywords": [
-    "Restent",
-    "Ou",
-    "Restent"
+    "rems",
+    "remsmc",
+    "Redstone Experiment Server",
+    "Minecraft",
+    "生电服务器"
   ],
-  "author": "Restent Ou",
-  "license": "MIT",
+  "author": "Redstone Experimental Server Github",
+  "license": "CC BY-NC-SA 4.0",
   "devDependencies": {
-    "vuepress": "^1.8.2"
+    "vuepress": "^2.0.0-beta.32"
   },
   "dependencies": {
     "@vuepress-reco/vuepress-plugin-rss": "^1.0.2",
-    "vuepress-plugin-rss": "^2.0.0",
-    "vuepress-theme-reco": "^1.6.1"
+    "vuepress-plugin-rss": "^2.0.0"
   }
 }
