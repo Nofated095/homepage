@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: "/assets/logo/lightlogo.png"
+heroImage: "https://rems.gitee.io/assets/logo/lightlogo.png"
 tagline: 
 actionText: 快速了解 →
 actionLink: /category/
@@ -15,7 +15,7 @@ footer: Copyright REMS 2020-2021. By Redstone Experimental Server Github
 ---
 
 # 服务器简介
-![](assets/maps/bg1.png)
+![](https://rems.gitee.io/assets/maps/bg1.png)
 >服务器生存服主世界出生点
 
 **Redstone Experimental Server(简称REMS)最初成立于2020年2月9日，是大型红石技术向不知名生存服务器之一。为初入生电坑的萌新有“我可以”、“我能行”、“我有用”的观念。我们也有“会肝”，“会玩”，“友爱”的红石大佬。REMS是一个温馨的集体。**
@@ -31,7 +31,7 @@ footer: Copyright REMS 2020-2021. By Redstone Experimental Server Github
 :::
 
 # 加入我们
-![](assets/members/members.png)
+![](https://rems.gitee.io/assets/members/members.png)
 >~~全家福~~ 服务器成员合影
 
 **服务器为正版验证+白名单验证方式，如果你有正版，请加QQ群399049323，下载申请表（群文件），认真填写申请表，并提交给腐竹，等待面试通知。经过管理员审核后便可进服一起玩耍啦**
