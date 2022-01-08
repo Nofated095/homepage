@@ -4,8 +4,8 @@
   "description": "Nofated's Homepage",
   "main": "index.ts",
   "scripts": {
-    "dev": "vuepress dev",
-    "build": "vuepress build"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "keywords": [
     "Nofated",
