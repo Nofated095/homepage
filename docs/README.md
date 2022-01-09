@@ -42,7 +42,7 @@ I have no idea.
 [![GitHub](https://img.shields.io/badge/Github-Nofated095-181717?style=for-the-badge&logo=github)](https://github.com/Nofated095)
 [![Telegram](https://img.shields.io/badge/Telegram-Nofated-26a5e4?style=for-the-badge&logo=telegram)](https://t.me/Nofated)
 [![Twitter](https://img.shields.io/badge/Twitter-Nofated095-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/nofated095)
-[![QQ](https://img.shields.io/badge/QQ-2032025551-eb1923?style=for-the-badge&logo=tencentqq)]((https://qm.qq.com/cgi-bin/qm/qr?k=E6GfcgEdEUN6Hv14D24W_GQlGdAATQ0F&noverify=0)
+[![QQ](https://img.shields.io/badge/QQ-2032025551-eb1923?style=for-the-badge&logo=tencentqq)](https://qm.qq.com/cgi-bin/qm/qr?k=E6GfcgEdEUN6Hv14D24W_GQlGdAATQ0F&noverify=0)
 
 ## 🎉 感谢
 
