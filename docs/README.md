@@ -35,9 +35,13 @@ I have no idea.
 ## ✉️ 联系方式
 
 [➡️](mailto:nofated095@outlook.com) ️![Email](https://img.shields.io/badge/EMAIL-nofated095@outlook.com-informational?style=for-the-badge)
+
 [➡️](https://github.com/Nofated095) ![GitHub](https://img.shields.io/badge/Github-Nofated095-181717?style=for-the-badge&logo=github)
+
 [➡️](https://t.me/Nofated) ![Telegram](https://img.shields.io/badge/Telegram-Nofated-26a5e4?style=for-the-badge&logo=telegram)
+
 [➡️](https://twitter.com/nofated095) ![Twitter](https://img.shields.io/badge/Twitter-Nofated095-1da1f2?style=for-the-badge&logo=twitter)
+
 [➡️](https://qm.qq.com/cgi-bin/qm/qr?k=E6GfcgEdEUN6Hv14D24W_GQlGdAATQ0F&noverify=0) ![QQ](https://img.shields.io/badge/QQ-2032025551-eb1923?style=for-the-badge&logo=tencentqq)
 
 ## 🎉 感谢
