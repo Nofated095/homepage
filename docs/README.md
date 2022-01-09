@@ -18,7 +18,7 @@ footer: MIT Licensed | Copyright © 2019-2022 present Nofated
 
 ![](https://img.shields.io/website?down_message=Offline&label=blog.nofated.win&style=for-the-badge&up_message=Online&url=https://blog.nofated.win)
 
-![](https://img.shields.io/badge/📫 EMAIL-nofated095@outlook.com-informational?style=for-the-badge)
+![](https://img.shields.io/badge/EMAIL-nofated095@outlook.com-informational?style=for-the-badge)
 
 ## 🏢 我是以下组织的成员
 
