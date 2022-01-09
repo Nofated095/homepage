@@ -11,6 +11,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   theme: '@vuepress/theme-default',
   themeConfig: {
     logo: 'https://cravatar.eu/helmhead/Nofated',
+    head: [['link', { rel: 'icon', href: 'https://cravatar.eu/helmhead/Nofated' }]],
   navbar: [
       {
         text: 'Home',
