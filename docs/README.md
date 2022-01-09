@@ -1,37 +1,46 @@
 ---
 home: true
-heroImage: "https://rems.gitee.io/assets/logo/lightlogo.png"
-tagline: 
-actionText: 快速了解 →
-actionLink: /category/
-features:
-- title: 技术
-  details: 我们致力于 1.15 版本的生电和械电的研究，自主研发或魔改过一些红石机器。
-- title: 建筑
-  details: 虽然不是建筑大师，但是我们在努力做好。龙头镇和许多玩家的家即是证明。
-- title: 知名度
-  details: REMS 是 Bridges 的其中一名成员。但我们仍不知名，但是这并不会阻挡我们前进的步伐。我们的明天会更好。
-footer: Copyright REMS 2020-2021. By Redstone Experimental Server Github
+title: Home
+heroImage: "https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg"
+actions:
+  - text: ♥️Blog
+    link: "https://blog.nofated.win"
+    type: primary
+  - text: 👍Friends
+    link: "https://blog.nofated.win/friends"
+    type: secondary
+footer: MIT Licensed | Copyright © 2019-2022 present Nofated
 ---
 
-# 服务器简介
-![](https://rems.gitee.io/assets/maps/bg1.png)
->服务器生存服主世界出生点
+## 嗨，我是 Nofated！👋
 
-**Redstone Experimental Server(简称REMS)最初成立于2020年2月9日，是大型红石技术向不知名生存服务器之一。为初入生电坑的萌新有“我可以”、“我能行”、“我有用”的观念。我们也有“会肝”，“会玩”，“友爱”的红石大佬。REMS是一个温馨的集体。**
+一个 Python、HTML5 开发者。来自北京，是在校学生。
 
-# 观看我们的宣传视频
+![](https://img.shields.io/website?down_message=Offline&label=blog.nofated.win&style=for-the-badge&up_message=Online&url=https://blog.nofated.win)
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-    <iframe src="//player.bilibili.com/player.html?aid=540942275&bvid=BV1Ki4y1x7yg&cid=200993755&page=1&danmaku=0&high_quality=1"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe>
-</div>
+![](https://img.shields.io/badge/📫 EMAIL-nofated095@outlook.com-informational?style=for-the-badge)
 
-::: tip
-稿件提交时间为2020-06-11，服务器已经有了很大的变化，最新的情况请以服务器官方日志为准。
-:::
+## 🏢 我是以下组织的成员
 
-# 加入我们
-![](https://rems.gitee.io/assets/members/members.png)
->~~全家福~~ 服务器成员合影
+- `[LittleSkinCommspt](https://github.com/LittleSkinCommspt)` | 文档写作助手 & 机器人开发贡献者
 
-**服务器为正版验证+白名单验证方式，如果你有正版，请加QQ群399049323，下载申请表（群文件），认真填写申请表，并提交给腐竹，等待面试通知。经过管理员审核后便可进服一起玩耍啦**
+- `[Redstone Experimental Server](https://remsmc.github.io)` | 文档写作助手 & GitHub 管理维护
+
+- EdgeLight | 主席
+
+## 🧑🏻‍💻 我的项目
+
+I have no idea.
+
+## ✉️ 联系方式
+
+- [Email](mailto:nofated095@outlook.com)
+- [GitHub](https://github.com/Nofated095)
+- [Telegram](https://t.me/Nofated)
+ - [Telegram Channel](https://t.me/nof095)
+- [Twitter](https://twitter.com/nofated095)
+- [QQ](https://qm.qq.com/cgi-bin/qm/qr?k=E6GfcgEdEUN6Hv14D24W_GQlGdAATQ0F&noverify=0)
+
+## 🎉 感谢
+
+GitHub & CloudFlare & Vercel & Leancloud
