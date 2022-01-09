@@ -22,9 +22,9 @@ footer: MIT Licensed | Copyright © 2019-2022 present Nofated
 
 ## 🏢 我是以下组织的成员
 
-- `[LittleSkinCommspt](https://github.com/LittleSkinCommspt)` | 文档写作助手 & 机器人开发贡献者
+- [`LittleSkinCommspt`](https://github.com/LittleSkinCommspt) | 文档写作助手 & 机器人开发贡献者
 
-- `[Redstone Experimental Server](https://remsmc.github.io)` | 文档写作助手 & GitHub 管理维护
+- [`Redstone Experimental Server`](https://remsmc.github.io) | 文档写作助手 & GitHub 管理维护
 
 - EdgeLight | 主席
 
