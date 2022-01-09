@@ -10,6 +10,24 @@ export default defineUserConfig<DefaultThemeOptions>({
   // 主题和它的配置
   theme: '@vuepress/theme-default',
   themeConfig: {
-    logo: 'https://vuejs.org/images/logo.png',
+    logo: 'https://cravatar.eu/helmhead/Nofated',
+  navbar: [
+      {
+        text: 'Home',
+        link: '/',
+      },
+      {
+        text: 'Blog',
+        link: 'https://blog.nofated.win',
+      },
+      {
+        text: 'OneDrive',
+        link: 'https://od.nofated.win',
+      },
+      {
+        text: 'GitHub',
+        link: 'https://github.com/Nofated095',
+      },
+    ],
   },
 })
