@@ -7,7 +7,7 @@ actions:
     link: "https://blog.nofated.win"
     type: primary
   - text: 👍Friends
-    link: "https://blog.nofated.win/friends"
+    link: "https://blog.nofated.win/friends.html"
     type: secondary
 footer: MIT Licensed | Copyright © 2019-2022 present Nofated
 ---
