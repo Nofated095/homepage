@@ -16,10 +16,6 @@
   "author": "Nofated095",
   "license": "CC BY-NC-SA 4.0",
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.32"
-  },
-  "dependencies": {
-    "@vuepress-reco/vuepress-plugin-rss": "^1.0.2",
-    "vuepress-plugin-rss": "^2.0.0"
+    "vuepress": "^2.0.0-beta.35"
   }
 }
