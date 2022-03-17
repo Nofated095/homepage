@@ -10,8 +10,10 @@ export default defineUserConfig<DefaultThemeOptions>({
   // 主题和它的配置
   theme: '@vuepress/theme-default',
   themeConfig: {
-    logo: 'https://cravatar.eu/helmhead/Nofated',
-    head: [['link', { rel: 'icon', href: 'https://cravatar.eu/helmhead/Nofated' }]],
+    logo: 'https://pic.rmb.bdstatic.com/bjh/5734ea6ff12a90bf7cdfaa66f1cfd1cc.png',
+    head: [['link', { rel: 'icon', href: 'https://pic.rmb.bdstatic.com/bjh/5734ea6ff12a90bf7cdfaa66f1cfd1cc.png' }]],
+    // logo: 'https://cravatar.eu/helmhead/Nofated',
+    // head: [['link', { rel: 'icon', href: 'https://cravatar.eu/helmhead/Nofated' }]],
   navbar: [
       {
         text: 'Home',
