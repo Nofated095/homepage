@@ -18,16 +18,10 @@ export default defineHopeConfig({
         link: 'https://blog.nofated.win',
       },
       {
-        text: 'OneDrive',
-        link: 'https://od.nofated.win',
-      },
-      {
         text: 'GitHub',
         link: 'https://github.com/Nofated095',
-      },
+      }
     ],
-      ],
-    },
 
     footer: {
       display: true,
