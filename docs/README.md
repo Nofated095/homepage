@@ -1,9 +1,9 @@
 ---
 home: true
 title: Home
-heroImage: "https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg"
+heroImage: "https://pic.rmb.bdstatic.com/bjh/8b98d9798b6997e61a19d49503845644.png"
 actions:
-  - text: ♥️Blog
+  - text: ❤️Blog
     link: "https://blog.nofated.win"
     type: primary
   - text: 👍Friends
@@ -30,7 +30,7 @@ footer: MIT Licensed | Copyright © 2019-2022 present Nofated
 
 ## 🧑🏻‍💻 我的项目
 
-I have no idea.
+正在学习 Python 3 和 C++ 的语法。准备参加 NOIP 比赛。
 
 ## ✉️ 联系方式
 
