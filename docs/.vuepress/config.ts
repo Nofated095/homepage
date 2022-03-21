@@ -1,20 +1,14 @@
 import { defineUserConfig } from 'vuepress'
 import type { DefaultThemeOptions } from 'vuepress'
+import { defineHopeConfig } from "vuepress-theme-hope";
 
-export default defineUserConfig<DefaultThemeOptions>({
-  // 站点配置
+export default defineHopeConfig({
   lang: 'zh-CN',
   title: 'Nofated',
   description: 'I hope to be with you everyday.',
 
-  // 主题和它的配置
-  theme: '@vuepress/theme-default',
   themeConfig: {
-    logo: 'https://pic.rmb.bdstatic.com/bjh/5734ea6ff12a90bf7cdfaa66f1cfd1cc.png',
-    head: [['link', { rel: 'icon', href: 'https://pic.rmb.bdstatic.com/bjh/5734ea6ff12a90bf7cdfaa66f1cfd1cc.png' }]],
-    // logo: 'https://cravatar.eu/helmhead/Nofated',
-    // head: [['link', { rel: 'icon', href: 'https://cravatar.eu/helmhead/Nofated' }]],
-  navbar: [
+    navbar: [
       {
         text: 'Home',
         link: '/',
@@ -32,5 +26,12 @@ export default defineUserConfig<DefaultThemeOptions>({
         link: 'https://github.com/Nofated095',
       },
     ],
+      ],
+    },
+
+    footer: {
+      display: true,
+      copyright: "MIT Licensed | Copyright © 2022-present Nofated",
+    }
   },
 })
