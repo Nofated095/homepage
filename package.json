@@ -1,7 +1,4 @@
 {
-  "name": "nofated_homepage",
-  "version": "1.0.0",
-  "description": "Nofated's Homepage",
   "main": "index.ts",
   "scripts": {
     "docs:dev": "vuepress dev docs",
@@ -16,6 +13,7 @@
   "author": "Nofated095",
   "license": "CC BY-NC-SA 4.0",
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.35"
+    "vuepress": "^2.0.0-beta.36",
+    "vuepress-theme-hope": "^2.0.0-beta.17"
   }
 }
