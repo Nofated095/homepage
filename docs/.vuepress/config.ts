@@ -24,10 +24,12 @@ export default defineHopeConfig({
       },
       {
         text: 'Blog',
+        logo: "blog",
         link: 'https://blog.nofated.win',
       },
       {
         text: 'GitHub',
+        logo: "github",
         link: 'https://github.com/Nofated095',
       }
     ],
